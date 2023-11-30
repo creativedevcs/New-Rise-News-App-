@@ -23,6 +23,8 @@ With the power of asynchronous operations and the News API, the application prov
 
 Customizable News Filters:
 The Dynamic News Explorer empowers users with the ability to customize their news exploration. Through intuitive filtering options, users can tailor their news feed based on categories, sources, or keywords, allowing for a personalized and focused news consumption experience.
+![image](https://github.com/creativedevcs/New-Rise-News-App-/assets/126081204/3615fb2f-fa78-4af4-9d20-304710e2e032)
+
 
 Interactive Features:
 Enhance user engagement with interactive features powered by JavaScript. From dynamic article previews to seamless transitions between sections, the project aims to make the exploration of news articles an enjoyable and interactive journey.
